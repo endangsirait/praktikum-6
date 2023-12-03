@@ -1,6 +1,6 @@
-![image](https://github.com/endangsirait/praktikum-6/assets/148036197/38a08299-9ca2-40cf-b492-863a14e2301e)# praktikum-6
+
 # Latihan
-# <p>Ubahlah kode dibawah ini menjadi fungsi lambda</p>
+ <p>Ubahlah kode dibawah ini menjadi fungsi lambda</p>
 # <p>input</p>
 
 ![image](https://github.com/endangsirait/praktikum-6/assets/148036197/b837f5bf-f984-43ea-b8ba-e8474485cf4e)
